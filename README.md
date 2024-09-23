@@ -5,7 +5,7 @@ Libraries Imported
 - NumPy: For numerical operations and array handling.
 - Pandas: Although imported, it's not used in this code. It can be helpful for data manipulation.
 - Matplotlib: For plotting the time series data, trends, and seasonality.
-- 
+
  Functions Defined
 1.moving_average_odd(data, q):
    - Calculates the moving average for datasets with an odd number of elements.
